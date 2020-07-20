@@ -39,6 +39,7 @@ It is usually easy to find software on the other end of the spectrum: ultra-mini
 - Slack, Discord, Skype, Zoom:
   - [Telegram](https://telegram.org/) (Qt+QML) - blazingly fast and light instant messenger
   - [Jitsi](https://github.com/jitsi/jitsi) (Java, Web) - Good free alternative for videocalls. Any of public instances, like [meet.jit.si](https://meet.jit.si/) or self-hosted
+  - [Matrix](https://matrix.org/) - use self-hosted instance of matrix homeserver or create user at public one and try any of preferred [clients](https://matrix.org/clients)
 
 ### Mail
 - Mailspring:
